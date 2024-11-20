@@ -4,6 +4,7 @@ This reposotory is for Final Year Project under School of Physical and Mathemati
 MATLAB Simulations for Final Year Project
 Welcome to the repository for MATLAB Simulations for my final year project. This repository contains all the MATLAB scripts, functions, and data files developed during the course of the project. The simulations are designed to solve and analyze [insert a brief project topic, e.g., "Partial Differential Equations on Toroidal Surfaces"], demonstrating the application of numerical methods and advanced mathematical modeling techniques.
 
+#MATLAB Simulations for Final Year Project: Solving PDEs on/in a Torus Using Finite Difference Methods
 
 
 function projectOverview()
