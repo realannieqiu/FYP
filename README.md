@@ -1,6 +1,4 @@
 
-
-#MATLAB Simulations for Final Year Project: Solving PDEs on/in a Torus Using Finite Difference Methods
 # MATLAB Simulations for Final Year Project
 
 Welcome to the repository for **MATLAB Simulations** for a final year project. This repository contains all the MATLAB scripts, functions, and data files developed during the course of the project. The simulations are designed to solve and analyze **Solving PDEs on/in a Torus Using Finite
